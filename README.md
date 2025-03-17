@@ -32,7 +32,7 @@
 
 ## 注意事项
 
-- 请确保您有有效的 aiyiapi 平台 API 密钥（注册于 aiyiapi.com）
+- 请确保您有有效的 aiyiapi 平台 API 密钥（注册于 [aiyiapi.com](https://aiyiapi.com/)）
 - API 可能有请求频率限制，脚本中已添加请求间隔
 - 生成的图像将保存在 `jimeng_images` 文件夹中
 - aiyiapi 平台是聚合全球 AI API 的服务，通过它您可以轻松调用即梦及其他主流 AI 模型
