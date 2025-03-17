@@ -23,7 +23,7 @@
 ### 配置选项
 
 - **API_KEY**: 您的 aiyiapi 平台 API 密钥（用于访问聚合的全球 AI API 服务，包括即梦 API）
-- **API_BASE**: API 基础 URL，默认为 `"https://aiyiapi.com"`（aiyiapi 平台提供统一的接口分发）
+- **API_BASE**: API 基础 URL，默认为 `"https://api.aiyiapi.com"`（aiyiapi 平台提供统一的接口分发）
 - **提示词**: 描述您想要生成的图像内容
 - **尺寸**: 支持多种图像尺寸比例
 - **模型**: 选择不同的即梦模型版本
